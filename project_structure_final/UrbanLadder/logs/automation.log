@@ -1,0 +1,127 @@
+2026-05-22 14:23:29 [main] INFO  - Initializing Browser
+2026-05-22 14:23:41 [main] INFO  - Clicking Bookshelves
+2026-05-22 14:23:57 [main] INFO  - Initializing Browser
+2026-05-22 14:24:04 [main] INFO  - User is on Bookshelves page
+2026-05-22 14:24:05 [main] INFO  - Clicking on Living Room collection
+2026-05-22 14:24:07 [main] INFO  - Printing Bestseller and New Arrival products
+2026-05-22 14:24:38 [main] INFO  - Initializing Browser
+2026-05-22 14:24:44 [main] INFO  - Opening Gift Cards page
+2026-05-22 14:24:51 [main] INFO  - Entering dynamic gift card details
+2026-05-22 14:24:53 [main] INFO  - Clicking Pay Now
+2026-05-22 14:24:53 [main] INFO  - Navigating to Payment page
+2026-05-22 14:25:12 [main] INFO  - Cancelling Payment
+2026-05-22 14:25:22 [main] INFO  - An error occured.
+2026-05-22 14:25:22 [main] INFO  - Please note your order number is #URLD0000000189
+2026-05-22 17:27:46 [main] INFO  - Initializing Browser
+2026-05-22 17:28:12 [main] INFO  - Clicking Bookshelves
+2026-05-22 17:28:30 [main] INFO  - Initializing Browser
+2026-05-22 17:28:41 [main] INFO  - User is on Bookshelves page
+2026-05-22 17:28:42 [main] INFO  - Clicking on Living Room collection
+2026-05-22 17:28:46 [main] INFO  - Printing Bestseller and New Arrival products
+2026-05-22 17:29:20 [main] INFO  - Initializing Browser
+2026-05-22 17:29:30 [main] INFO  - Opening Gift Cards page
+2026-05-22 17:30:01 [main] INFO  - Screenshot captured: C:\Users\2487607\IdeaProjects\Final_project\project_structure_final\UrbanLadder/screenshots/Validate gift card purchase flow with different inputs.png
+2026-05-22 17:30:26 [main] INFO  - Initializing Browser
+2026-05-22 17:30:39 [main] INFO  - Opening Gift Cards page
+2026-05-22 17:30:46 [main] INFO  - Entering dynamic gift card details
+2026-05-22 17:30:49 [main] INFO  - Clicking Pay Now
+2026-05-22 17:30:49 [main] INFO  - Navigating to Payment page
+2026-05-22 17:31:16 [main] INFO  - Screenshot captured: C:\Users\2487607\IdeaProjects\Final_project\project_structure_final\UrbanLadder/screenshots/Validate gift card purchase flow with different inputs.png
+2026-05-22 17:31:32 [main] INFO  - Initializing Browser
+2026-05-22 17:31:42 [main] INFO  - Opening Gift Cards page
+2026-05-22 17:31:51 [main] INFO  - Entering dynamic gift card details
+2026-05-22 17:31:54 [main] INFO  - Clicking Pay Now
+2026-05-22 17:31:54 [main] INFO  - Navigating to Payment page
+2026-05-22 17:32:20 [main] INFO  - Initializing Browser
+2026-05-22 17:32:31 [main] INFO  - Opening Gift Cards page
+2026-05-22 17:32:37 [main] INFO  - Entering dynamic gift card details
+2026-05-22 17:32:39 [main] INFO  - Clicking Pay Now
+2026-05-22 17:32:40 [main] INFO  - Navigating to Payment page
+2026-05-22 17:33:03 [main] INFO  - Cancelling Payment
+2026-05-22 17:33:16 [main] INFO  - An error occured.
+2026-05-22 17:33:16 [main] INFO  - Please note your order number is #URLD0000000190
+2026-05-22 17:40:11 [main] INFO  - Initializing Browser
+2026-05-22 17:40:22 [main] INFO  - Opening Gift Cards page
+2026-05-22 17:41:23 [main] INFO  - Initializing Browser
+2026-05-22 17:43:40 [main] INFO  - Initializing Browser
+2026-05-22 17:44:01 [main] INFO  - Opening Gift Cards page
+2026-05-22 17:44:28 [main] INFO  - Initializing Browser
+2026-05-22 17:44:46 [main] INFO  - Initializing Browser
+2026-05-22 17:49:49 [main] INFO  - Initializing Browser
+2026-05-22 17:50:01 [main] INFO  - Clicking Bookshelves
+2026-05-22 17:50:23 [main] INFO  - Initializing Browser
+2026-05-22 17:50:33 [main] INFO  - User is on Bookshelves page
+2026-05-22 17:50:34 [main] INFO  - Clicking on Living Room collection
+2026-05-22 17:50:39 [main] INFO  - Printing Bestseller and New Arrival products
+2026-05-22 17:51:11 [main] INFO  - Initializing Browser
+2026-05-22 17:51:21 [main] INFO  - Opening Gift Cards page
+2026-05-22 17:51:27 [main] INFO  - Entering dynamic gift card details
+2026-05-22 17:51:30 [main] INFO  - Clicking Pay Now
+2026-05-22 17:51:30 [main] INFO  - Navigating to Payment page
+2026-05-22 17:51:47 [main] INFO  - Cancelling Payment
+2026-05-22 17:52:00 [main] INFO  - An error occured.
+2026-05-22 17:52:00 [main] INFO  - Please note your order number is #URLD0000000191
+2026-05-22 17:53:27 [main] INFO  - [TestNG] Running:
+  C:\Users\2487607\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-05-22 17:53:29 [TestNG-PoolService-2] INFO  - Initializing Browser
+2026-05-22 17:53:29 [TestNG-PoolService-1] INFO  - Initializing Browser
+2026-05-22 17:53:29 [TestNG-PoolService-3] INFO  - Initializing Browser
+2026-05-22 17:53:43 [TestNG-PoolService-3] INFO  - Opening Gift Cards page
+2026-05-22 17:53:45 [TestNG-PoolService-2] INFO  - User is on Bookshelves page
+2026-05-22 17:53:46 [TestNG-PoolService-2] INFO  - Clicking on Living Room collection
+2026-05-22 17:53:49 [TestNG-PoolService-2] INFO  - Printing Bestseller and New Arrival products
+2026-05-22 17:53:51 [TestNG-PoolService-3] INFO  - Entering dynamic gift card details
+2026-05-22 17:53:57 [TestNG-PoolService-3] INFO  - Clicking Pay Now
+2026-05-22 17:53:58 [TestNG-PoolService-3] INFO  - Navigating to Payment page
+2026-05-22 17:54:12 [TestNG-PoolService-3] INFO  - Cancelling Payment
+2026-05-22 17:54:23 [TestNG-PoolService-3] INFO  - An error occured.
+2026-05-22 17:54:23 [TestNG-PoolService-3] INFO  - Please note your order number is #URLD0000000192
+2026-05-22 17:58:32 [main] INFO  - [TestNG] Running:
+  C:\Users\2487607\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-05-22 17:58:33 [TestNG-PoolService-3] INFO  - Initializing Browser
+2026-05-22 17:58:33 [TestNG-PoolService-2] INFO  - Initializing Browser
+2026-05-22 17:58:33 [TestNG-PoolService-1] INFO  - Initializing Browser
+2026-05-22 17:59:36 [main] INFO  - [TestNG] Running:
+  C:\Users\2487607\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-05-22 17:59:38 [TestNG-PoolService-3] INFO  - Initializing Browser
+2026-05-22 17:59:38 [TestNG-PoolService-1] INFO  - Initializing Browser
+2026-05-22 17:59:38 [TestNG-PoolService-2] INFO  - Initializing Browser
+2026-05-22 17:59:48 [TestNG-PoolService-3] INFO  - Opening Gift Cards page
+2026-05-22 17:59:55 [TestNG-PoolService-3] INFO  - Entering dynamic gift card details
+2026-05-22 17:59:57 [TestNG-PoolService-3] INFO  - Clicking Pay Now
+2026-05-22 17:59:57 [TestNG-PoolService-3] INFO  - Navigating to Payment page
+2026-05-22 18:05:29 [main] INFO  - [TestNG] Running:
+  C:\Users\2487607\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-05-22 18:05:31 [TestNG-PoolService-1] INFO  - Initializing Browser
+2026-05-22 18:05:31 [TestNG-PoolService-2] INFO  - Initializing Browser
+2026-05-22 18:05:31 [TestNG-PoolService-3] INFO  - Initializing Browser
+2026-05-22 18:05:47 [TestNG-PoolService-3] INFO  - Opening Gift Cards page
+2026-05-22 18:05:50 [TestNG-PoolService-1] INFO  - Clicking Bookshelves
+2026-05-22 18:05:55 [TestNG-PoolService-3] INFO  - Entering dynamic gift card details
+2026-05-22 18:06:00 [TestNG-PoolService-3] INFO  - Clicking Pay Now
+2026-05-22 18:06:00 [TestNG-PoolService-3] INFO  - Navigating to Payment page
+2026-05-22 18:06:10 [TestNG-PoolService-1] INFO  - Screenshot captured: C:\Users\2487607\Downloads\project_structure\project_structure_final\UrbanLadder/screenshots/Printing first three bookshelves.png
+2026-05-22 18:06:22 [TestNG-PoolService-3] INFO  - Cancelling Payment
+2026-05-22 18:06:34 [TestNG-PoolService-3] INFO  - An error occured.
+2026-05-22 18:06:34 [TestNG-PoolService-3] INFO  - Please note your order number is #URLD0000000194
+2026-05-22 18:12:38 [main] INFO  - [TestNG] Running:
+  C:\Users\2487607\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-05-22 18:12:40 [TestNG-PoolService-3] INFO  - Initializing Browser
+2026-05-22 18:12:40 [TestNG-PoolService-2] INFO  - Initializing Browser
+2026-05-22 18:12:40 [TestNG-PoolService-1] INFO  - Initializing Browser
+2026-05-22 18:12:59 [TestNG-PoolService-2] INFO  - User is on Bookshelves page
+2026-05-22 18:13:00 [TestNG-PoolService-3] INFO  - Opening Gift Cards page
+2026-05-22 18:13:00 [TestNG-PoolService-2] INFO  - Clicking on Living Room collection
+2026-05-22 18:13:01 [TestNG-PoolService-1] INFO  - Clicking Bookshelves
+2026-05-22 18:13:08 [TestNG-PoolService-2] INFO  - Printing Bestseller and New Arrival products
+2026-05-22 18:13:11 [TestNG-PoolService-3] INFO  - Entering dynamic gift card details
+2026-05-22 18:13:17 [TestNG-PoolService-3] INFO  - Clicking Pay Now
+2026-05-22 18:13:18 [TestNG-PoolService-3] INFO  - Navigating to Payment page
+2026-05-22 18:13:32 [TestNG-PoolService-3] INFO  - Cancelling Payment
+2026-05-22 18:13:43 [TestNG-PoolService-3] INFO  - An error occured.
+2026-05-22 18:13:43 [TestNG-PoolService-3] INFO  - Please note your order number is #URLD0000000196
