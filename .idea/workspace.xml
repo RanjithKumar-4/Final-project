@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b8b8f40-9c85-43c7-b6db-9aa84a9eacf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/Features/GiftCards.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/factory/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/pageObjects/BookShelvesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/pageObjects/GiftCardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/pageObjects/LivingRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/pageObjects/payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/stepDefinitions/GiftCardSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/testRunner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/java/testRunner/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/target/test-classes/pageObjects/payment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/target/test-classes/testRunner/parallelrunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/target/test-classes/utilities/DataReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 11-01-50/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 11-22-54/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 11-23-50/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 14-04-08/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 14-41-21/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 14-58-58/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 15-00-20/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 16-50-44/Screenshots/embedded10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 16-50-44/Screenshots/embedded15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 16-50-44/Screenshots/embedded2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 16-50-44/Screenshots/embedded5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 18-20-49/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 18-20-49/Screenshots/embedded10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 18-20-49/Screenshots/embedded15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 18-20-49/Screenshots/embedded2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 18-20-49/Screenshots/embedded4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 18-20-49/Screenshots/embedded5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 18-20-49/Screenshots/embedded9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 08-55-17/Screenshots/embedded9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-01-10/Screenshots/embedded3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-05-06/Screenshots/embedded1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-05-06/Screenshots/embedded3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-12-25/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-12-25/Screenshots/embedded13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-12-25/Screenshots/embedded3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-12-25/Screenshots/embedded8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-15-47/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-15-47/Screenshots/embedded10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-15-47/Screenshots/embedded11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-15-47/Screenshots/embedded3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-15-47/Screenshots/embedded5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-15-47/Screenshots/embedded9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-17-41/Screenshots/embedded11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-17-41/Screenshots/embedded12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-17-41/Screenshots/embedded13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-17-41/Screenshots/embedded4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-17-41/Screenshots/embedded6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-17-41/Screenshots/embedded9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/embedded13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/embedded5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/embedded8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/testData/bookshelves.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project_structure (3) (1).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/.idea/project_structure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project_structure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/Features/Bookshelves.feature" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/Features/Bookshelves.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/Features/Collections.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/Features/GiftCards.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/logs/automation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/reports/myreport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_first_three_bookshelves_1779281068181.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_first_three_bookshelves_1779281090357.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_first_three_bookshelves_1779281090754.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_first_three_bookshelves_1779281091217.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_first_three_bookshelves_1779281091799.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_giftcards_1779281167750.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_giftcards_1779281169440.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_giftcards_1779281169771.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_giftcards_1779281176214.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_giftcards_1779281178600.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_giftcards_1779281186438.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_the_bestseller_and_new_arrivals_1779281102489.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_the_bestseller_and_new_arrivals_1779281106969.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/screenshots/printing_the_bestseller_and_new_arrivals_1779281134574.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/factory/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/pageObjects/Basepage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/pageObjects/BookShelvesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/pageObjects/GiftCardPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/pageObjects/Homepage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/pageObjects/LivingRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/pageObjects/payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/stepDefinitions/BookshelvesSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/stepDefinitions/CollectionsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/stepDefinitions/GiftCardSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/stepDefinitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/testRunner/TestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/java/utilities/DataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/resources/extent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/src/test/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/rerun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/surefire-reports/Account Registration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/target/surefire-reports/Account Registration.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/surefire-reports/Login with Valid Credentials.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/surefire-reports/TEST-Account Registration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/surefire-reports/TEST-Login with Valid Credentials.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/surefire-reports/TEST-testRunner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/target/surefire-reports/TEST-testRunner.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/surefire-reports/testRunner.TestRunner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/extent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/factory/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/pageObjects/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/pageObjects/BookShelvesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/pageObjects/GiftCardPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/pageObjects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/pageObjects/LivingRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/pageObjects/payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/stepDefinitions/BookshelvesSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/stepDefinitions/CollectionsSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/stepDefinitions/GiftCardSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/stepDefinitions/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/testRunner/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/target/test-classes/utilities/DataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-19-51/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-01-10/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-20-45/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 11-12-23 07-20-45/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-21-50/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 11-12-23 07-21-50/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-26-00/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 22-05-26 09-05-06/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-27-39/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 11-16-20/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-42-12/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 11-23-18/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-44-24/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 11-12-23 07-44-24/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-45-57/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 11-12-23 07-45-57/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 11-12-23 07-52-49/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 14-44-25/Report/CucumberExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_structure/UrbanLadder/test-output/SparkReport 8-12-23 12-48-04/Report/CucumberExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_structure_final/UrbanLadder/test-output/SparkReport 20-05-26 15-04-21/Report/CucumberExtentReport.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3E3zUFGEb4QKEA9YUNMzutT5qFZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TestRunner.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "rp",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/2487607/Downloads/Rp",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2487607\Downloads\Rp" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b8b8f40-9c85-43c7-b6db-9aa84a9eacf0" name="Changes" comment="" />
+      <created>1779422054687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779422054687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
